@@ -11,7 +11,7 @@ class NavBar extends StatelessComponent {
     yield section(classes: 'navbar', [
       div([
         span([text('< ')]),
-        span(classes: 'brand', [text('Munawar')]),
+        span(classes: 'brand', [text('Munu')]),
         span([text(' />')]),
       ]),
       div(classes: 'labels', [

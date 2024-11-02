@@ -93,6 +93,13 @@
             "link": "https://play.google.com/store/apps/details?id=com.pmr.bricklyApp&hl=en_IN"
         },
         {
+            "banner": "images/projects/vansalesB.png",
+            "icon": "images/projects/vansales.png",
+            "title": "Vansales Application System",
+            "description": "An ERP device app with seamless Bluetooth bill printing, optimized for stability and business operations using blue_thermal_printer.",
+            "link": "https://play.google.com/store/apps/details?id=com.vansalesapp.next&hl=en_IN"
+        },
+        {
             "banner": "images/projects/gastroboardB.png",
             "icon": "images/projects/gastroboard.png",
             "title": "Gastroboard",

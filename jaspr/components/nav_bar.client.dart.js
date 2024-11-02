@@ -3651,7 +3651,7 @@ var r=0,q=1,p,o
 return function $async$ad(b,c,d){if(c===1){p=d
 r=q}while(true)switch(r){case 0:o=t.i
 r=2
-return b.b=new A.W("section",null,"navbar",null,null,null,null,A.k([A.ha(A.k([A.eC(A.k([new A.F("< ",null)],o),null),A.eC(A.k([new A.F("Munawar",null)],o),"brand"),A.eC(A.k([new A.F(" />",null)],o),null)],o),null),A.ha(A.k([A.bX(A.k([new A.F("HOME",null)],o),"navbar-label","#",null,null),A.bX(A.k([new A.F("ABOUT",null)],o),"navbar-label","#about",null,null),A.bX(A.k([new A.F("SERVICES",null)],o),"navbar-label","#services",null,null),A.bX(A.k([new A.F("PROJECTS",null)],o),"navbar-label","#projects",null,null),A.bX(A.k([new A.F("CONTACT",null)],o),"navbar-label","#contact",null,null),new A.c4("RESUME","https://drive.google.com/drive/folders/1pA8Kj5HLCeqiZx5lP9PtJRVNlAoq91Nh",null)],o),"labels")],o),null),1
+return b.b=new A.W("section",null,"navbar",null,null,null,null,A.k([A.ha(A.k([A.eC(A.k([new A.F("< ",null)],o),null),A.eC(A.k([new A.F("Munu",null)],o),"brand"),A.eC(A.k([new A.F(" />",null)],o),null)],o),null),A.ha(A.k([A.bX(A.k([new A.F("HOME",null)],o),"navbar-label","#",null,null),A.bX(A.k([new A.F("ABOUT",null)],o),"navbar-label","#about",null,null),A.bX(A.k([new A.F("SERVICES",null)],o),"navbar-label","#services",null,null),A.bX(A.k([new A.F("PROJECTS",null)],o),"navbar-label","#projects",null,null),A.bX(A.k([new A.F("CONTACT",null)],o),"navbar-label","#contact",null,null),new A.c4("RESUME","https://drive.google.com/drive/folders/1pA8Kj5HLCeqiZx5lP9PtJRVNlAoq91Nh",null)],o),"labels")],o),null),1
 case 2:return 0
 case 1:return b.c=p,3}}}}}
 A.b4.prototype={
